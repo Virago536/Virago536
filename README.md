@@ -23,7 +23,7 @@ Currently, I'm **actively looking for a junior developer position**, where I can
 
 ### 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://linkedin.com/in/tuusuario)
-- 📧 alvaro.tuemail@gmail.com
+- 🌐 [LinkedIn](www.linkedin.com/in/alvaro-millan-serrano)
+- 📧 alvaromillanserrano@gmail.com
 
 ---
