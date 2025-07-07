@@ -1,8 +1,10 @@
 ## Hello Everyone 👋
 
-My name is Álvaro, I'm a spanish Web developer passionated about new technologies and the digital world. 
+I'm a passionate web developer from Spain 🇪🇸, with a strong interest in clean code, scalable applications and open-source technologies. I recently completed a 2-month internship at **Enreach Labs**, where I worked with modern PHP frameworks and JavaScript tools.
 
-### Languages and tools I know
+Currently, I'm **actively looking for a junior developer position**, where I can keep learning and contribute to impactful projects.
+
+### 🛠️ Languages and tools
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -19,4 +21,9 @@ My name is Álvaro, I'm a spanish Web developer passionated about new technologi
 ![Git](https://img.shields.io/badge/git-%23F05033?style=flat-square&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
+### 📫 Let's Connect
 
+- 🌐 [LinkedIn](https://linkedin.com/in/tuusuario)
+- 📧 alvaro.tuemail@gmail.com
+
+---
