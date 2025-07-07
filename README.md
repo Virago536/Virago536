@@ -21,7 +21,7 @@ Currently, I'm **actively looking for a junior developer position**, where I can
 ![Git](https://img.shields.io/badge/git-%23F05033?style=flat-square&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
-### Github stats 
+### 📈 Github stats 
 
 ![Álvaro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=virago536&show_icons=true&theme=radical)
 
